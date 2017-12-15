@@ -2825,3 +2825,197 @@ http://5.189.187.55:8000/live/workfine/skype/3734.ts
 http://5.189.187.55:8000/live/workfine/skype/3733.ts
 #EXTINF:-1,AR: MBC Pro Sports 4
 http://5.189.187.55:8000/live/workfine/skype/3751.ts
+#EXTINF:-1 tvg-id="RTK1" tvg-link="" tvg-name="RTK1" tvg-logo="" group-title="Gjenerale",RTK1
+http://cms3.fastiptv.org:80/live?channelId=2&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTK2" tvg-link="" tvg-name="RTK2" tvg-logo="" group-title="Gjenerale",RTK2
+http://cms3.fastiptv.org:80/live?channelId=3&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTK3" tvg-link="" tvg-name="RTK3" tvg-logo="" group-title="Gjenerale",RTK3
+http://cms3.fastiptv.org:80/live?channelId=4&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTK4" tvg-link="" tvg-name="RTK4" tvg-logo="" group-title="Gjenerale",RTK4
+http://cms3.fastiptv.org:80/live?channelId=5&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="KTV" tvg-link="" tvg-name="KTV" tvg-logo="" group-title="Gjenerale",KTV
+http://cms3.fastiptv.org:80/live?channelId=7&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTV21" tvg-link="" tvg-name="RTV21" tvg-logo="" group-title="Gjenerale",RTV21
+http://cms3.fastiptv.org:80/live?channelId=6&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="KlanKosova" tvg-link="" tvg-name="KlanKosova" tvg-logo="" group-title="Gjenerale",KlanKosova
+http://cms3.fastiptv.org:80/live?channelId=10&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="KlanTv" tvg-link="" tvg-name="KlanTv" tvg-logo="" group-title="Gjenerale",KlanTv - 239.15.15.2:1234
+http://cms3.fastiptv.org:80/live?channelId=11&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="VisionPlus" tvg-link="" tvg-name="VisionPlus" tvg-logo="" group-title="Gjenerale",VisionPlus
+http://cms3.fastiptv.org:80/live?channelId=21&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="AlsatM" tvg-link="" tvg-name="AlsatM" tvg-logo="" group-title="Gjenerale",AlsatM - http://84.22.34.9:8090/iptv?chID=110&uID=109&userName=orangenet&passWord=onet16
+http://cms3.fastiptv.org:80/live?channelId=22&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TVSH" tvg-link="" tvg-name="TVSH" tvg-logo="" group-title="Gjenerale",TVSH
+http://cms3.fastiptv.org:80/live?channelId=23&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RrokumTv" tvg-link="" tvg-name="RrokumTv" tvg-logo="" group-title="Gjenerale",RrokumTv
+http://cms3.fastiptv.org:80/live?channelId=24&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="PeaceTv" tvg-link="" tvg-name="PeaceTv" tvg-logo="" group-title="Gjenerale",PeaceTv
+http://cms3.fastiptv.org:80/live?channelId=25&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ShenjaTv" tvg-link="" tvg-name="ShenjaTv" tvg-logo="" group-title="Gjenerale",ShenjaTv
+http://cms3.fastiptv.org:80/live?channelId=26&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ArtaNews" tvg-link="" tvg-name="ArtaNews" tvg-logo="" group-title="Lajme",ArtaNews
+http://cms3.fastiptv.org:80/live?channelId=9&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ORA NEWS" tvg-link="" tvg-name="ORA NEWS" tvg-logo="" group-title="Lajme",ORA NEWS
+http://cms3.fastiptv.org:80/live?channelId=27&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Kanali7" tvg-link="" tvg-name="Kanali7" tvg-logo="" group-title="Lajme",Kanali7
+http://cms3.fastiptv.org:80/live?channelId=28&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TopNews" tvg-link="" tvg-name="TopNews" tvg-logo="" group-title="Lajme",TopNews
+http://cms3.fastiptv.org:80/live?channelId=109&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Living" tvg-link="" tvg-name="Living" tvg-logo="" group-title="Dokumentar",Living
+http://cms3.fastiptv.org:80/live?channelId=29&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringMax" tvg-link="" tvg-name="TringMax" tvg-logo="" group-title="Filma",TringMax
+http://cms3.fastiptv.org:80/live?channelId=30&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringLife" tvg-link="" tvg-name="TringLife" tvg-logo="" group-title="Filma",TringLife
+http://cms3.fastiptv.org:80/live?channelId=31&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringSuper" tvg-link="" tvg-name="TringSuper" tvg-logo="" group-title="Filma",TringSuper
+http://cms3.fastiptv.org:80/live?channelId=36&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringComedy" tvg-link="" tvg-name="TringComedy" tvg-logo="" group-title="Filma",TringComedy
+http://cms3.fastiptv.org:80/live?channelId=35&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringShqip" tvg-link="" tvg-name="TringShqip" tvg-logo="" group-title="Filma",TringShqip
+http://cms3.fastiptv.org:80/live?channelId=34&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="3Plus" tvg-link="" tvg-name="3Plus" tvg-logo="" group-title="Filma",3Plus
+http://cms3.fastiptv.org:80/live?channelId=39&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringFantasy" tvg-link="" tvg-name="TringFantasy" tvg-logo="" group-title="Filma",TringFantasy
+http://cms3.fastiptv.org:80/live?channelId=37&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="JollyHD" tvg-link="" tvg-name="JollyHD" tvg-logo="" group-title="Filma",JollyHD
+http://cms3.fastiptv.org:80/live?channelId=40&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Smile" tvg-link="" tvg-name="Smile" tvg-logo="" group-title="Filma",Smile
+http://cms3.fastiptv.org:80/live?channelId=38&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringHistori" tvg-link="" tvg-name="TringHistori" tvg-logo="" group-title="Dokumentar",TringHistori
+http://cms3.fastiptv.org:80/live?channelId=42&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringPlanet" tvg-link="" tvg-name="TringPlanet" tvg-logo="" group-title="Dokumentar",TringPlanet
+http://cms3.fastiptv.org:80/live?channelId=44&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringWorld" tvg-link="" tvg-name="TringWorld" tvg-logo="" group-title="Dokumentar",TringWorld
+http://cms3.fastiptv.org:80/live?channelId=41&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="NatGeographis" tvg-link="" tvg-name="NatGeographis" tvg-logo="" group-title="Dokumentar",NatGeographis
+http://cms3.fastiptv.org:80/live?channelId=45&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-link="" tvg-name="NatGeoWild" tvg-logo="" group-title="Dokumentar",NatGeoWild
+http://cms3.fastiptv.org:80/live?channelId=47&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-link="" tvg-name="AnimalPlanet" tvg-logo="" group-title="Dokumentar",AnimalPlanet
+http://cms3.fastiptv.org:80/live?channelId=43&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-link="" tvg-name="DiscoveryChannel" tvg-logo="" group-title="Dokumentar",DiscoveryChannel
+http://cms3.fastiptv.org:80/live?channelId=48&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TLC" tvg-link="" tvg-name="TLC" tvg-logo="" group-title="Dokumentar",TLC
+http://cms3.fastiptv.org:80/live?channelId=33&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="LuxeTv" tvg-link="" tvg-name="LuxeTv" tvg-logo="" group-title="Dokumentar",LuxeTv
+http://cms3.fastiptv.org:80/live?channelId=46&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Muse" tvg-link="" tvg-name="Muse" tvg-logo="" group-title="Dokumentar",Muse
+http://cms3.fastiptv.org:80/live?channelId=15&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TringTring" tvg-link="" tvg-name="TringTring" tvg-logo="" group-title="Per Femije",TringTring
+http://cms3.fastiptv.org:80/live?channelId=16&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TipTv" tvg-link="" tvg-name="TipTv" tvg-logo="" group-title="Per Femije",TipTv
+http://cms3.fastiptv.org:80/live?channelId=17&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Sofia" tvg-link="" tvg-name="Sofia" tvg-logo="" group-title="Per Femije",Sofia
+http://cms3.fastiptv.org:80/live?channelId=18&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="BabyTv" tvg-link="" tvg-name="BabyTv" tvg-logo="" group-title="Per Femije",BabyTv
+http://cms3.fastiptv.org:80/live?channelId=19&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SuperRtl" tvg-link="" tvg-name="SuperRtl" tvg-logo="" group-title="Per Femije",SuperRtl
+http://cms3.fastiptv.org:80/live?channelId=49&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ERA" tvg-link="" tvg-name="ERA" tvg-logo="" group-title="Gjenerale",ERA - ERA
+http://cms3.fastiptv.org:80/live?channelId=50&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-link="" tvg-name="DisneyChannel" tvg-logo="" group-title="Per Femije",DisneyChannel
+http://cms3.fastiptv.org:80/live?channelId=51&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="DukagjiniTv" tvg-link="" tvg-name="DukagjiniTv" tvg-logo="" group-title="Gjenerale",DukagjiniTv
+http://cms3.fastiptv.org:80/live?channelId=52&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="7HD" tvg-link="" tvg-name="7HD" tvg-logo="" group-title="Filma",7HD
+http://cms3.fastiptv.org:80/live?channelId=54&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="StarHD" tvg-link="" tvg-name="StarHD" tvg-logo="" group-title="Filma",StarHD
+http://cms3.fastiptv.org:80/live?channelId=55&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyMax" tvg-link="" tvg-name="SkyMax" tvg-logo="" group-title="Filma",SkyMax
+http://cms3.fastiptv.org:80/live?channelId=12&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyAksion" tvg-link="" tvg-name="SkyAksion" tvg-logo="" group-title="Filma",SkyAksion
+http://cms3.fastiptv.org:80/live?channelId=56&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyDrame" tvg-link="" tvg-name="SkyDrame" tvg-logo="" group-title="Filma",SkyDrame
+http://cms3.fastiptv.org:80/live?channelId=57&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyKomedi" tvg-link="" tvg-name="SkyKomedi" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyKomedi
+http://cms3.fastiptv.org:80/live?channelId=60&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyNovela" tvg-link="" tvg-name="SkyNovela" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Filma",SkyNovela
+http://cms3.fastiptv.org:80/live?channelId=59&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="MKTV2" tvg-link="" tvg-name="MKTV2" tvg-logo="" group-title="Gjenerale",MKTV2
+http://cms3.fastiptv.org:80/live?channelId=58&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyShkenc" tvg-link="" tvg-name="SkyShkenc" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyShkenc
+http://cms3.fastiptv.org:80/live?channelId=63&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyPlanet" tvg-link="" tvg-name="SkyPlanet" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyPlanet
+http://cms3.fastiptv.org:80/live?channelId=62&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SkyHistori" tvg-link="" tvg-name="SkyHistori" tvg-logo="http://becktv.ie/sky-logo.jpg" group-title="Dokumentar",SkyHistori
+http://cms3.fastiptv.org:80/live?channelId=65&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTV21 PLUS" tvg-link="" tvg-name="RTV21 PLUS" tvg-logo="https://lh4.googleusercontent.com/-C6AnUEIq2fY/VbYUl_2IA-I/AAAAAAAABqo/wiO-cfOR8n0/w500-h450-no/rtv21plusHD.png" group-title="Gjenerale",RTV21 PLUS
+http://cms3.fastiptv.org:80/live?channelId=20&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTV21 POPULLORE" tvg-link="" tvg-name="RTV21 POPULLORE" tvg-logo="https://lh4.googleusercontent.com/-IHJS2gamogo/VbYUmPizzGI/AAAAAAAABqs/l0zxrhKw-GM/w500-h450-no/rtv21populloreHD.png" group-title="Gjenerale",RTV21 POPULLORE
+http://cms3.fastiptv.org:80/live?channelId=13&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTV21 MIX" tvg-link="" tvg-name="RTV21 MIX" tvg-logo="https://lh4.googleusercontent.com/-ThkKteLTff0/VbYUlNkm7xI/AAAAAAAABqk/MtfT8Q32sPw/w500-h450-no/rtv21mixHD.png" group-title="Gjenerale",RTV21 MIX
+http://cms3.fastiptv.org:80/live?channelId=14&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="FOLK +" tvg-link="" tvg-name="FOLK +" tvg-logo="https://i.ytimg.com/i/3slCmnW9jb9HH3V_mehVLQ/1.jpg" group-title="Gjenerale",FOLK +
+http://cms3.fastiptv.org:80/live?channelId=67&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="BBF" tvg-link="" tvg-name="BBF" tvg-logo="http://cdn.ontv.al/storage/tv/bbf.png" group-title="Gjenerale",BBF
+http://cms3.fastiptv.org:80/live?channelId=69&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Tv Iliria" tvg-link="" tvg-name="Tv Iliria" tvg-logo="https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/p206x206/10931427_871852166208719_8289666435537183982_n.jpg?oh=a8ab3b8ce6fb1c697d5ccf10d3c32c7b&oe=565F0BD5&__gda__=1450046181_e5fab2e5c606025a8282200ff69bc389" group-title="Gjenerale",Tv Iliria
+http://cms3.fastiptv.org:80/live?channelId=61&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ON TV" tvg-link="" tvg-name="ON TV" tvg-logo="" group-title="Gjenerale",ON TV
+http://cms3.fastiptv.org:80/live?channelId=70&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="DASMA TV" tvg-link="" tvg-name="DASMA TV" tvg-logo="http://dasmatv.com/web/file/2014/11/logo.png" group-title="Gjenerale",DASMA TV
+http://cms3.fastiptv.org:80/live?channelId=72&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="DIASPORA TV" tvg-link="" tvg-name="DIASPORA TV" tvg-logo="" group-title="Gjenerale",DIASPORA TV - udp://@224.20.20.14:1234
+http://cms3.fastiptv.org:80/live?channelId=68&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV Llapi" tvg-link="" tvg-name="TV Llapi" tvg-logo="" group-title="Gjenerale",TV Llapi
+http://cms3.fastiptv.org:80/live?channelId=74&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TvBesa" tvg-link="" tvg-name="TvBesa" tvg-logo="http://ediku.biz/tvbesa/wp-content/uploads/2015/03/logo.png" group-title="Gjenerale",TvBesa
+http://cms3.fastiptv.org:80/live?channelId=64&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV LIRIA" tvg-link="" tvg-name="TV LIRIA" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p160x160/10305435_772590466093693_2806351433215594303_n.jpg?oh=16ed84153833c655525ce7ff1c62a751&oe=56AB844D&__gda__=1449732849_3f409770cbe5e77f31a8fa5811161ded" group-title="Gjenerale",TV LIRIA
+http://cms3.fastiptv.org:80/live?channelId=76&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV MITROVICA" tvg-link="" tvg-name="TV MITROVICA" tvg-logo="" group-title="Gjenerale",TV MITROVICA
+http://cms3.fastiptv.org:80/live?channelId=73&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="SYRI VISION" tvg-link="" tvg-name="SYRI VISION" tvg-logo="" group-title="Gjenerale",SYRI VISION
+http://cms3.fastiptv.org:80/live?channelId=77&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="FIRST CHANNEL" tvg-link="" tvg-name="FIRST CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/First-Channel-Kosovo_o.jpg" group-title="Gjenerale",FIRST CHANNEL
+http://cms3.fastiptv.org:80/live?channelId=78&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV OPINIONI" tvg-link="" tvg-name="TV OPINIONI" tvg-logo="http://www.tv-opinion.com/WebFajllat/English/Televizioni%20OPINION.jpg" group-title="Gjenerale",TV OPINIONI
+http://cms3.fastiptv.org:80/live?channelId=79&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV TEMA" tvg-link="" tvg-name="TV TEMA" tvg-logo="https://yt3.ggpht.com/-Ev2d2RjTiY4/AAAAAAAAAAI/AAAAAAAAAAA/sbh05EACZ4U/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV TEMA
+http://cms3.fastiptv.org:80/live?channelId=80&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TV VALI" tvg-link="" tvg-name="TV VALI" tvg-logo="https://yt3.ggpht.com/-etQwFwaxWjU/AAAAAAAAAAI/AAAAAAAAAAA/1K0bU5i7kPk/s100-c-k-no/photo.jpg" group-title="Gjenerale",TV VALI
+http://cms3.fastiptv.org:80/live?channelId=81&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="FAX News" tvg-link="" tvg-name="FAX News" tvg-logo="" group-title="Gjenerale",FAX News
+http://cms3.fastiptv.org:80/live?channelId=82&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TRING SPORT NEWS" tvg-link="" tvg-name="TRING SPORT NEWS" tvg-logo="http://m.kooora.com/images/logo_sports/tring1.jpg" group-title="Sport",TRING SPORT NEWS
+http://cms3.fastiptv.org:80/live?channelId=32&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TRING SPORT1" tvg-link="" tvg-name="TRING SPORT1" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT1
+http://cms3.fastiptv.org:80/live?channelId=83&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TRING SPORT2" tvg-link="" tvg-name="TRING SPORT2" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT2
+http://cms3.fastiptv.org:80/live?channelId=84&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TRING SPORT3" tvg-link="" tvg-name="TRING SPORT3" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT3
+http://cms3.fastiptv.org:80/live?channelId=87&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TRING SPORT4" tvg-link="" tvg-name="TRING SPORT4" tvg-logo="https://pbs.twimg.com/profile_images/500213899975618563/FvCgOwUs_400x400.jpeg" group-title="Sport",TRING SPORT4
+http://cms3.fastiptv.org:80/live?channelId=86&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Tring International" tvg-link="" tvg-name="Tring International" tvg-logo="" group-title="Gjenerale",Tring International
+http://cms3.fastiptv.org:80/live?channelId=88&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="TELESPORT" tvg-link="" tvg-name="TELESPORT" tvg-logo="http://telesport.al/wp-content/themes/telesport-albania/images/logo.png" group-title="Sport",TELESPORT
+http://cms3.fastiptv.org:80/live?channelId=85&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="EuroSport2" tvg-link="" tvg-name="EuroSport2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Eurosport_2_logo.svg" group-title="Sport",EuroSport2
+http://cms3.fastiptv.org:80/live?channelId=91&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ProSiebenMax" tvg-link="" tvg-name="ProSiebenMax" tvg-logo="http://vignette4.wikia.nocookie.net/tenkai-knights/images/b/bb/ProSieben_Maxx_Logo.jpg/revision/latest?cb=20140701151411" group-title="Filma",ProSiebenMax - ProSiebenMax
+http://cms3.fastiptv.org:80/live?channelId=98&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="ProSieben" tvg-link="" tvg-name="ProSieben" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bf/Pro7_2.png/revision/latest?cb=20110414092622" group-title="Filma",ProSieben - ProSieben
+http://cms3.fastiptv.org:80/live?channelId=96&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTL" tvg-link="" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RTL_Logo.svg" group-title="Gjenerale",RTL - RTL
+http://cms3.fastiptv.org:80/live?channelId=95&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RTL2" tvg-link="" tvg-name="RTL2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/Rtl2_logo_2002.svg/revision/latest/scale-to-width-down/200?cb=20110325195918" group-title="Gjenerale",RTL2 - Rtl2
+http://cms3.fastiptv.org:80/live?channelId=89&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="KabelEins" tvg-link="" tvg-name="KabelEins" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/2000px-Kabel_eins_Logo_08.svg.png" group-title="Filma",KabelEins - KabelEins
+http://cms3.fastiptv.org:80/live?channelId=94&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Sat1" tvg-link="" tvg-name="Sat1" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0021/5450/brand.gif?itok=B12Gehy5" group-title="Filma",Sat1 - Sat1
+http://cms3.fastiptv.org:80/live?channelId=97&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="N24" tvg-link="" tvg-name="N24" tvg-logo="http://polpix.sueddeutsche.com/polopoly_fs/1.953402.1355874096!/httpImage/image.jpg_gen/derivatives/860x860/image.jpg" group-title="Dokumentar",N24 - N24
+http://cms3.fastiptv.org:80/live?channelId=101&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Vox" tvg-link="" tvg-name="Vox" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/ac/VOX_Logo.png/revision/latest?cb=20150928151844" group-title="Filma",Vox - Vox
+http://cms3.fastiptv.org:80/live?channelId=103&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="EuroNews" tvg-link="" tvg-name="EuroNews" tvg-logo="http://seeklogo.com/images/E/EuroNews-logo-2C981071C8-seeklogo.com.gif" group-title="Lajme",EuroNews - EuroNews
+http://cms3.fastiptv.org:80/live?channelId=99&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Rai1" tvg-link="" tvg-name="Rai1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/2000px-Rai_1_logo.svg.png" group-title="Filma",Rai1 - Rai1
+http://cms3.fastiptv.org:80/live?channelId=102&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Rai2" tvg-link="" tvg-name="Rai2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/RAI2_2010_Logo.svg/1280px-RAI2_2010_Logo.svg.png" group-title="Filma",Rai2 - Rai2
+http://cms3.fastiptv.org:80/live?channelId=104&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="Rai3" tvg-link="" tvg-name="Rai3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/99/Logo_Rai_3_2010.svg.png/revision/latest?cb=20151129181104" group-title="Filma",Rai3 - Rai3
+http://cms3.fastiptv.org:80/live?channelId=105&uid=52&deviceMac=00:1A:79:28:03:54
+#EXTINF:-1 tvg-id="RaiNews" tvg-link="" tvg-name="RaiNews" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/516px-Logo_Rainews_it.svg.png" group-title="Lajme",RaiNews - RaiNews
+http://cms3.fastiptv.org:80/live?channelId=100&uid=52&deviceMac=00:1A:79:28:03:54
